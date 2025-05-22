@@ -31,10 +31,9 @@ pip install colorama requests
 ## 🚀 Usage
 Run the script using:
 
-bash
-Copy
-Edit
+```bash
 python portscanner.py
+```
 Then follow the interactive prompts:
 
 Enter the target IP/domain
